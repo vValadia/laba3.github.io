@@ -1,0 +1,36 @@
+
+h2,h3,h4{
+	
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 190%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+BODY{
+	background-color:black;
+}
+h2{
+	position:absolute;
+	color:#8f3c41;
+	padding-left:4px;
+	
+}
+h3{
+
+	position:absolute;
+	color:#c7afb1;
+	opacity:0.4;
+	padding-left:2px;
+	
+
+}
+h4{
+	position:absolute;
+	color:#ba202a;
+	padding-left:3px;
+	
+	
+}
